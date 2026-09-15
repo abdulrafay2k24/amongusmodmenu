@@ -1,0 +1,9 @@
+Package: com.abdulrafay.amongusmodmenu
+Name: AmongUsModMenu
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Simple test mod menu
+Maintainer: abdulrafay
+Author: abdulrafay
+Section: Tweaks
+Depends: mobilesubstrate
